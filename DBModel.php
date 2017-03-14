@@ -1,4 +1,6 @@
 <?php
+namespace OCC2\model;
+
 /**
  * interface for catching children of DBModel
  */
